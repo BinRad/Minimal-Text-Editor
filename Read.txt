@@ -1,0 +1,21 @@
+README:
+Made by Binyamin Radensky
+final project for assembly.
+due to time constraints and
+other projects this project has the
+/
+limited functionality that follows:
+1. it can load files from cmd line
+2. you can overwrite text
+3. You can save the file
+that you have written on
+/
+CONTROLS:
+[crtl]+[s] = SAVE
+[ESC] = leave
+/
+INFO:
+*the number next to the save is the number of bytes written to the file
+*it definitely could use some tweaking
+and a lot more work
+*if there is a save error, then just try hitting save a few times until success

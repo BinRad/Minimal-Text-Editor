@@ -217,7 +217,7 @@ writewelc:
 		mov di, 80				;to center the text
 		mov cx, 1000			;for loop
 		mov ah, 71h				;clears af for clean background
-		mov al, ' '
+		mov al, ?
 	call clear
 ;Draw text editor---------------------------------------------------------
 call writemenu
